@@ -1,7 +1,7 @@
-# nginx-gunicorn-flask
+# nginx-gunicorn-flaskRestful
 
 FROM ubuntu:12.04
-MAINTAINER Daniel Riti <dmriti@gmail.com>
+MAINTAINER Siva Ramakrishnan <siva_ram@ymail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
